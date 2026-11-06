@@ -7,4 +7,4 @@ Analyzes a DNA sequence:
 - Calculates sequence length and GC content
 
 **Run:**
-python3 dna_analysis.py
+`python3 dna_analysis.py`
