@@ -1,4 +1,4 @@
-# Python Tasks
+# Python-DNA-Analysis
 
 ## dna_analysis.py
 Analyzes a DNA sequence:
